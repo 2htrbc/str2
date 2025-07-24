@@ -1,0 +1,117 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", sans-serif;
+  background: linear-gradient(to bottom, #007acc, #00bcd4);
+  color: #fff;
+  overflow: hidden;
+}
+
+.container {
+  position: relative;
+  z-index: 2;
+  text-align: center;
+  padding: 50px 20px;
+}
+
+h1 {
+  margin-bottom: 30px;
+  font-size: 2em;
+}
+
+.link-box {
+  margin: 20px auto;
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 20px;
+  border-radius: 12px;
+  width: 90%;
+  max-width: 600px;
+  font-size: 1em;
+  position: relative;
+  user-select: none;
+}
+
+.field {
+  margin: 10px 0;
+  word-wrap: break-word;
+}
+
+.field span {
+  font-weight: bold;
+  display: inline-block;
+  width: 100px;
+}
+
+.copy-btn {
+  background-color: #ffffff;
+  color: #007acc;
+  border: none;
+  padding: 5px 10px;
+  font-size: 14px;
+  border-radius: 20px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.buttons {
+  margin-top: 20px;
+}
+
+button {
+  background-color: #ffffff;
+  color: #007acc;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 30px;
+  cursor: pointer;
+  margin: 0 10px;
+  transition: 0.3s ease;
+}
+
+button:hover {
+  background-color: #e0f7fa;
+}
+
+/* Bubble Animation */
+.bubbles {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  z-index: 1;
+}
+
+.bubbles span {
+  position: absolute;
+  display: block;
+  width: 20px;
+  height: 20px;
+  background: rgba(255, 255, 255, 0.2);
+  animation: bubble 25s linear infinite;
+  bottom: -150px;
+  border-radius: 50%;
+}
+
+@keyframes bubble {
+  0% {
+    transform: translateY(0) scale(1);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(-1000px) scale(0.5);
+    opacity: 0;
+  }
+}
+
+.bubbles span:nth-child(odd) {
+  width: 30px;
+  height: 30px;
+}
+
+.bubbles span:nth-child(even) {
+  width: 15px;
+  height: 15px;
+}
