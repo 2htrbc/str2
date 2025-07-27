@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TV SINEMA  1 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/tv-sinema.png" group-title="TV SINEMA",TV SINEMA  1 HD
+http://poykuz.xyz:8080/frt6868/Z9huSVD7VtjT/452845
+#EXTINF:-1 tvg-id="" tvg-name="TV SINEMA  2 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/tv-sinema.png" group-title="TV SINEMA",TV SINEMA  2 HD
+http://poykuz.xyz:8080/frt6868/Z9huSVD7VtjT/452846
+#EXTINF:-1 tvg-id="" tvg-name="TV SINEMA  3 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/tv-sinema.png" group-title="TV SINEMA",TV SINEMA  3 HD
+http://poykuz.xyz:8080/frt6868/Z9huSVD7VtjT/452847
+#EXTINF:-1 tvg-id="" tvg-name="TV SINEMA  4 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/tv-sinema.png" group-title="TV SINEMA",TV SINEMA  4 HD
+http://poykuz.xyz:8080/frt6868/Z9huSVD7VtjT/452848
+#EXTINF:-1 tvg-id="" tvg-name="TV SINEMA  5 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/tv-sinema.png" group-title="TV SINEMA",TV SINEMA  5 HD
+http://poykuz.xyz:8080/frt6868/Z9huSVD7VtjT/452849
+#EXTINF:-1 tvg-id="" tvg-name="TV SINEMA  6 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/tv-sinema.png" group-title="TV SINEMA",TV SINEMA  6 HD
+http://poykuz.xyz:8080/frt6868/Z9huSVD7VtjT/452850
+#EXTINF:-1 tvg-id="" tvg-name="TV SINEMA  7 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/tv-sinema.png" group-title="TV SINEMA",TV SINEMA  7 HD
+http://poykuz.xyz:8080/frt6868/Z9huSVD7VtjT/452851
+#EXTINF:-1 tvg-id="" tvg-name="TV SINEMA  8 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/tv-sinema.png" group-title="TV SINEMA",TV SINEMA  8 HD
+http://poykuz.xyz:8080/frt6868/Z9huSVD7VtjT/452852
+#EXTINF:-1 tvg-id="" tvg-name="TV SINEMA  9 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/tv-sinema.png" group-title="TV SINEMA",TV SINEMA  9 HD
+http://poykuz.xyz:8080/frt6868/Z9huSVD7VtjT/452853
+#EXTINF:-1 tvg-id="" tvg-name="TV SINEMA  10 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/tv-sinema.png" group-title="TV SINEMA",TV SINEMA  10 HD
+http://poykuz.xyz:8080/frt6868/Z9huSVD7VtjT/452854
+#EXTINF:-1 tvg-id="" tvg-name="4K Sinema TV 1 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/4kcinematv.png" group-title="4K Sinema TV",4K Sinema TV 1 HD
+http://poykuz.xyz:8080/frt6868/Z9huSVD7VtjT/102233
+#EXTINF:-1 tvg-id="" tvg-name="4K Sinema TV 2 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/4kcinematv.png" group-title="4K Sinema TV",4K Sinema TV 2 HD
+http://poykuz.xyz:8080/frt6868/Z9huSVD7VtjT/102234
+#EXTINF:-1 tvg-id="" tvg-name="4K Sinema TV 3 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/4kcinematv.png" group-title="4K Sinema TV",4K Sinema TV 3 HD
+http://poykuz.xyz:8080/frt6868/Z9huSVD7VtjT/102235
+#EXTINF:-1 tvg-id="" tvg-name="4K Sinema TV 4 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/4kcinematv.png" group-title="4K Sinema TV",4K Sinema TV 4 HD
+http://poykuz.xyz:8080/frt6868/Z9huSVD7VtjT/102236
+#EXTINF:-1 tvg-id="" tvg-name="4K Sinema TV 5 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/4kcinematv.png" group-title="4K Sinema TV",4K Sinema TV 5 HD
+http://poykuz.xyz:8080/frt6868/Z9huSVD7VtjT/102237
+#EXTINF:-1 tvg-id="" tvg-name="4K Sinema TV  6 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/4kcinematv.png" group-title="4K Sinema TV",4K Sinema TV  6 HD
+http://poykuz.xyz:8080/frt6868/Z9huSVD7VtjT/102238
+#EXTINF:-1 tvg-id="" tvg-name="4K Sinema TV 7 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/4kcinematv.png" group-title="4K Sinema TV",4K Sinema TV 7 HD
+http://poykuz.xyz:8080/frt6868/Z9huSVD7VtjT/102239
+#EXTINF:-1 tvg-id="" tvg-name="4K Sinema TV 8 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/4kcinematv.png" group-title="4K Sinema TV",4K Sinema TV 8 HD
+http://poykuz.xyz:8080/frt6868/Z9huSVD7VtjT/102240
+#EXTINF:-1 tvg-id="" tvg-name="4K Sinema TV 9 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/4kcinematv.png" group-title="4K Sinema TV",4K Sinema TV 9 HD
+http://poykuz.xyz:8080/frt6868/Z9huSVD7VtjT/102241
+#EXTINF:-1 tvg-id="" tvg-name="4K Sinema TV 10 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/4kcinematv.png" group-title="4K Sinema TV",4K Sinema TV 10 HD
+http://poykuz.xyz:8080/frt6868/Z9huSVD7VtjT/102242
