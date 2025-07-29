@@ -1,5 +1,148 @@
 #EXTM3U
-
+#EXTINF:-1,INC TV
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=INC_TV
+#EXTINF:-1,Jeepney TV
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Jeepney_TV
+#EXTINF:-1,Kapamilya Channel
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Kapamilya_Channel
+#EXTINF:-1,Knowledge Channel
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Knowledge_Channel
+#EXTINF:-1,Metro Channel
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Metro_Channel
+#EXTINF:-1,MPTV
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=MPTV
+#EXTINF:-1,MYX PH
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=MYX_PH
+#EXTINF:-1,NBA TV Philippines
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=NBA_TV_Philippines
+#EXTINF:-1,NET25
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=NET25
+#EXTINF:-1,Nick Jr
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Nick_Jr
+#EXTINF:-1,Nickelodeon
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Nickelodeon
+#EXTINF:-1,Nicktoons
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Nicktoons
+#EXTINF:-1,One News
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=One_News
+#EXTINF:-1,One PH
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=One_PH
+#EXTINF:-1,One Sports
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=One_Sports
+#EXTINF:-1,One Sports +
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=One_Sports_Plus
+#EXTINF:-1,PBA Rush
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=PBA_Rush
+#EXTINF:-1,PBO
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=PBO
+#EXTINF:-1,Premier Sports 1
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Premier_Sports_1
+#EXTINF:-1,PPV Channel 1
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=PPV_Channel_1
+#EXTINF:-1,PPV Channel 2
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=PPV_Channel_2
+#EXTINF:-1,PTV
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=PTV
+#EXTINF:-1,RPTV
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=RPTV
+#EXTINF:-1,Sky Arts
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Sky_Arts
+#EXTINF:-1,Sky Atlantic
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Sky_Atlantic
+#EXTINF:-1,Sky Cinema Action
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Sky_Cinema_Action
+#EXTINF:-1,Sky Cinema Animation
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Sky_Cinema_Animation
+#EXTINF:-1,Sky Cinema Comedy
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Sky_Cinema_Comedy
+#EXTINF:-1,Sky Cinema Drama
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Sky_Cinema_Drama
+#EXTINF:-1,Sky Cinema Family
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Sky_Cinema_Family
+#EXTINF:-1,Sky Cinema Greats
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Sky_Cinema_Greats
+#EXTINF:-1,Sky Cinema Premier
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Sky_Cinema_Premier
+#EXTINF:-1,Sky Cinema Thriller
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Sky_Cinema_Thriller
+#EXTINF:-1,Sky Comedy
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Sky_Comedy
+#EXTINF:-1,Sky Crime
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Sky_Crime
+#EXTINF:-1,Sky Documentaries
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Sky_Documentaries
+#EXTINF:-1,Sky History
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Sky_History
+#EXTINF:-1,Sky Kids
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Sky_Kids
+#EXTINF:-1,Sky Max
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Sky_Max
+#EXTINF:-1,Sky Nature
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Sky_Nature
+#EXTINF:-1,Sky News
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Sky_News
+#EXTINF:-1,Sky Sci-Fi
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Sky_SciFi
+#EXTINF:-1,Sky Showcase
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Sky_Showcase
+#EXTINF:-1,Sky Sports Action
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Sky_Sports_Action
+#EXTINF:-1,Sky Sports Cricket
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Sky_Sports_Cricket
+#EXTINF:-1,Sky Sports F1
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Sky_Sports_F1
+#EXTINF:-1,Sky Sports F1 UHD
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Sky_Sports_F1_UHD
+#EXTINF:-1,Sky Sports Football
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Sky_Sports_Football
+#EXTINF:-1,Sky Sports Golf
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Sky_Sports_Golf
+#EXTINF:-1,Sky Sports Main Event
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Sky_Sports_Main_Event
+#EXTINF:-1,Sky Sports Main Event UHD
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Sky_Sports_Main_Event_UHD
+#EXTINF:-1,Sky Sports Mix
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Sky_Sports_Mix
+#EXTINF:-1,Sky Sports News
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Sky_Sports_News
+#EXTINF:-1,Sky Sports Plus
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Sky_Sports_Plus
+#EXTINF:-1,Sky Sports Premier League
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Sky_Sports_Premier_League
+#EXTINF:-1,Sky Sports Racing
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Sky_Sports_Racing
+#EXTINF:-1,Sky Sports Tennis
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Sky_Sports_Tennis
+#EXTINF:-1,Sky Witness
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=Sky_Witness
+#EXTINF:-1,SMNI
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=SMNI
+#EXTINF:-1,SOLARFLIX
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=SOLARFLIX
+#EXTINF:-1,TMC
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=TMC
+#EXTINF:-1,TNT Sports 1
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=TNT_Sports_1
+#EXTINF:-1,TNT Sports 2
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=TNT_Sports_2
+#EXTINF:-1,TNT Sports 3
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=TNT_Sports_3
+#EXTINF:-1,TNT Sports 4
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=TNT_Sports_4
+#EXTINF:-1,True FM TV
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=True_FM_TV
+#EXTINF:-1,TV Maria
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=TV_Maria
+#EXTINF:-1,TV5
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=TV5
+#EXTINF:-1,tvN Movies Pinoy
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=tvN_Movies_Pinoy
+#EXTINF:-1,UAAP Varsity Channel
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=UAAP_Varsity_Channel
+#EXTINF:-1,UNTV
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=UNTV
+#EXTINF:-1,VIVA Cinema
+https://one.test-stream.66ghz.com/playlist.m3u8?stream=VIVA_Cinema
 #EXTINF:-1, NBA TV HD
 https://one.test-stream.66ghz.com/playlist.m3u8?stream=NBA_HD
 #EXTINF:-1, NBA TV
